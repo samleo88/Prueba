@@ -1,0 +1,12 @@
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.deps.json
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csprojAssemblyReference.cache
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb

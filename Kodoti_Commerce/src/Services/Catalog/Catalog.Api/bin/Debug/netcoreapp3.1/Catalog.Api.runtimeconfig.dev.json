@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Telemetria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Telemetria\\.nuget\\packages"
+    ]
+  }
+}

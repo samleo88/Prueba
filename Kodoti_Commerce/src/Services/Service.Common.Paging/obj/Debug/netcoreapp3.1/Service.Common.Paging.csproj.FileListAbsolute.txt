@@ -1,0 +1,4 @@
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\Telemetria\Desktop\Prueba\Kodoti_Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
